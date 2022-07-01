@@ -1,0 +1,6 @@
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\UCLib\bin\Debug\UCLib.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\UCLib\bin\Debug\UCLib.pdb
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\UCLib\obj\Debug\UCLib.csproj.CoreCompileInputs.cache
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\UCLib\obj\Debug\UCLib.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\UCLib\obj\Debug\UCLib.pdb
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\UCLib\obj\Debug\UCLib.csproj.AssemblyReference.cache
