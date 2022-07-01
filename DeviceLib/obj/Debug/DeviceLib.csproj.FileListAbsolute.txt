@@ -1,0 +1,15 @@
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\DeviceLib.dll.config
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\DeviceLib.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\DeviceLib.pdb
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\Basler.Pylon.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\FilesRAWLibrary.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\MvCameraControl.Net.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\OSLogLib.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\ThridLibray.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\CLIDelegate.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\bin\Debug\Basler.Pylon.xml
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\obj\Debug\DeviceLib.csproj.CoreCompileInputs.cache
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\obj\Debug\DeviceLib.csproj.CopyComplete
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\obj\Debug\DeviceLib.dll
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\obj\Debug\DeviceLib.pdb
+E:\ProductApplication\7.软件标准化资料\temporary\OpencvSharpDemo\DeviceLib\obj\Debug\DeviceLib.csproj.AssemblyReference.cache
